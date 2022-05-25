@@ -1,0 +1,5 @@
+name: SpellChecker
+version: '${project.version}'
+main: fr.soraxdubbing.spellchecker.SpellChecker
+authors: [ SoraxDubbing ]
+description: Permet de voir les spells crée dans MagicSpells
